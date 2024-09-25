@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "toast": "^0.5.4"
+  }
+}
